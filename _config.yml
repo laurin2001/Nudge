@@ -1,8 +1,8 @@
-name: "My Cool Jekyll Site"
+name: "Studio Nudge"
 description: "my description"
 
-url: "http://laurin2001.github.io/testJekyllSite"
-baseurl: "/testJekyllSite"
+url: "http://laurin2001.github.io/Nudge"
+baseurl: "/Nudge"
 
 paginate: 10
 
